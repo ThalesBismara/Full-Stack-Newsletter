@@ -24,9 +24,10 @@
 }
 
 body {
+  background-color: var(--bg-color);
   font: var(--text);
-  background-color: var(--bg-color)
-  color:var(--text-color-primary)
+  color: var(--text-color-primary)
+  
 }
 
 a {
@@ -40,4 +41,20 @@ a:hover {
 
 h1,h2,h3 {
   font: inherit;
+}
+
+.container {
+  max-width: 1280px;
+  padding-inline: 32px;
+  margin-inline: auto;
+}
+/*Utility-First = quando eu tenho uma classe que vai fazer somente uma coisa*/
+
+.grid {
+  display: grid;
+}
+
+.grid-flow-col {
+  grid-auto-flow: column;
+  
 }
