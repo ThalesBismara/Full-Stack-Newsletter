@@ -1,3 +1,4 @@
+<img width="1325" height="484" alt="news" src="https://github.com/user-attachments/assets/f56a86d9-3a8f-4464-9f10-4c169a642ecc" />
 # Newsletter Landing Page
 
 A responsive newsletter-style landing page that simulates a modern tech news portal.  
