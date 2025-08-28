@@ -18,5 +18,4 @@ The project highlights articles, featured news, and technology trends, using a c
 - **CSS3 (Grid & Flexbox)**
 - **Google Fonts (Archivo, Poppins)**
 
-## 📂 Project Structure
-<img width="857" height="409" alt="2" src="https://github.com/user-attachments/assets/24925039-4c4c-4c10-bb39-732781d1c9c1" />
+
