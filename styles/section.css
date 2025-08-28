@@ -47,7 +47,7 @@ figcaption {
   padding: 24px;
 
   &:has(.text-lg){
-    padding: 12px;
+    padding: 20px;
   }
 
   h2 {
@@ -108,6 +108,7 @@ margin-top: 32px;
   }
   img {
     width: 72px;
+    height: 100px;
     aspect-ratio: 1/1;
     object-fit: cover;
 
